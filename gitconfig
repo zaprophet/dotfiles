@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = thompsenlachlan882@gmail.com
+	name = Dan Buckovski
